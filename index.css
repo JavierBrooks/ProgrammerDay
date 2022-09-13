@@ -1,6 +1,7 @@
-.body{
+body{
     text-align: center;
-    display: flex;
+    left: 50%;
+    right:50%
 }
 
 h1{
